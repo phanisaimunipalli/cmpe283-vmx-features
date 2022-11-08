@@ -1,4 +1,4 @@
-# CMPE283 : Assignment 1 - VMX Features
+# CMPE283 : Virtual Technologies
 
 # Assignment 1: Discovering VMX Features
 
